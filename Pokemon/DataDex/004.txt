@@ -1,0 +1,11 @@
+CHARMANDER
+FIRE
+Null
+med_slow
+52
+43
+65
+60
+50
+39
+62

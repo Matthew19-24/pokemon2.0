@@ -1,0 +1,11 @@
+BULBASAUR
+GRASS
+POISON
+med_slow
+49
+49
+45
+65
+65
+45
+64

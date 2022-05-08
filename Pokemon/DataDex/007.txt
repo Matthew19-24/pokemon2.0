@@ -1,0 +1,11 @@
+SQUIRTLE
+WATER
+Null
+med_slow
+48
+65
+43
+50
+64
+44
+63
