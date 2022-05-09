@@ -51,6 +51,11 @@ public class Pokemon {
 	private Base base;
 	
 	/**
+	 * The Pokemon's nature and it's corresponding values.
+	 */
+	public Nature nature;
+	
+	/**
 	 * Returns the value stored in the species field.
 	 * @return Species
 	 */
@@ -154,6 +159,7 @@ public class Pokemon {
 		this.readDataDex(dexNum);
 		this.ev = new EV();
 		this.iv = new IV();
+		this.nature = new Nature();
 	} // End constructor.
 	
 	/**

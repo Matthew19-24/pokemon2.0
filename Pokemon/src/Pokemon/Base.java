@@ -12,7 +12,7 @@ package Pokemon;
 public class Base {
 	
 	/**
-	 * The base attack stat..
+	 * The base attack stat.
 	 */
 	private int attack;
 	
