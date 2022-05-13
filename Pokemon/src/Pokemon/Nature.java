@@ -212,7 +212,7 @@ public class Nature {
 	{
 		StringBuilder sb = new StringBuilder();
 		
-		sb.append("\nNature: ").append(this.getNature());
+		sb.append(this.getNature());
 		
 		return sb.toString();
 	} // End toString.

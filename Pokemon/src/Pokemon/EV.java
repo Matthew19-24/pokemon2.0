@@ -198,7 +198,7 @@ public class EV {
 	{
 		StringBuilder sb = new StringBuilder();
 		
-		sb.append("\nAttack EV: ").append(this.getAttack());
+		sb.append("Attack EV: ").append(this.getAttack());
 		sb.append("\nDefense EV: ").append(this.getDefense());
 		sb.append("\nSpeed EV: ").append(this.getSpeed());
 		sb.append("\nSpecial Attack EV: ").append(this.getSpecialAttack());

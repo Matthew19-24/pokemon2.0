@@ -119,7 +119,7 @@ public class IV {
 	{
 		StringBuilder sb = new StringBuilder();
 		
-		sb.append("\nAttack IV: ").append(this.getAttack());
+		sb.append("Attack IV: ").append(this.getAttack());
 		sb.append("\nDefense IV: ").append(this.getDefense());
 		sb.append("\nSpeed IV: ").append(this.getSpeed());
 		sb.append("\nSpecial Attack IV: ").append(this.getSpecialAttack());

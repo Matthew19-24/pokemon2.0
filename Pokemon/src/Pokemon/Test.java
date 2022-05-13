@@ -8,7 +8,7 @@ public class Test {
 
 		Pokemon bulbpack = new Pokemon("001");
 		
-		System.out.println(bulbpack.nature);
+		System.out.println(bulbpack.getDexInfo().getBase());
 
 	}
 

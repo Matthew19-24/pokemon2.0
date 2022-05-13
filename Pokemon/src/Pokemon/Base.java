@@ -139,7 +139,7 @@ public class Base {
 	{
 		StringBuilder sb = new StringBuilder();
 		
-		sb.append("\nBase attack: ").append(this.getAttack());
+		sb.append("Base attack: ").append(this.getAttack());
 		sb.append("\nBase Defense: ").append(this.getDefense());
 		sb.append("\nBase Speed: ").append(this.getSpeed());
 		sb.append("\nBase Special Attack: ").append(this.getSpecialAttack());
