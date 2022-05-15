@@ -40,7 +40,9 @@ public class Move {
 	private int ppMax;
 	
 	
-	
+	/**
+	 * The move is used in an attack against the rival.
+	 */
 	public void attack()
 	{
 		
